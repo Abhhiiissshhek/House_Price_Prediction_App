@@ -62,6 +62,10 @@ streamlit run app.py
 
 The application will open in your browser.
 
+## Live link 
+[House_Price_Prediction.app](https://housepricepredictionapp-7ffaeapvqkgw88yqqkappy6.streamlit.app/)
+
+
 ## Disclaimer
 
 This project uses a **synthetic dataset** and is intended for educational purposes. The predictions should not be considered real-world property valuations.
