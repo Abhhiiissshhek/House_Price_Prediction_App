@@ -40,6 +40,14 @@ git clone <your-repository-url>
 cd house-price-prediction
 ```
 
+Create virtual environment:
+
+```bash
+python -m venv venv
+.\venv\scripts\activate
+```
+
+
 Install dependencies:
 
 ```bash
